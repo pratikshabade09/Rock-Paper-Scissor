@@ -1,2 +1,2 @@
-# Snake-Water-Gun
+#Rock-Paper-Scissor
 Game 
